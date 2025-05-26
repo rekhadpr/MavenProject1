@@ -35,7 +35,7 @@ import io.restassured.specification.RequestSpecification;
 
 	           // Assert that correct status code is returned.
 	          Assert.assertEquals(statusCode /*actual value*/, 200 /*expected value*/, 
-	            "Correct status code returned");
+	            "InCorrect status code returned");
 
 	    }
 	
